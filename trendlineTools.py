@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from requests.auth import HTTPBasicAuth
 import matplotlib.ticker as mticker
 import matplotlib.axes as ax
-from matplotlib.finance import candlestick_ohlc
+from mpl_finance import candlestick_ohlc
 import numpy as np
 import argparse
 
